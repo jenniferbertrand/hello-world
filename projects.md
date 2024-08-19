@@ -1,42 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jennifer Bertrand | Research Projects</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/minimalist/0.1.0/minimalist.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header, footer {
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+    </style>
 </head>
+<body>
+    <header>
+        <h1>Jennifer Bertrand</h1>
+        <nav>
+            <a href="index.html">Home</a> | 
+            <a href="contact.html">Contact</a>
+        </nav>
+        <p>Post-doctoral Researcher focused on Digital Health, Human Movement + Activity Tracking, and Tech-Driven Patient-Centered Health Solutions </p>
+    </header>
 
-# Research Projects
+    <div class="content">
+        <h2>Research Projects</h2>
+        
+        <h3>Remote Motion Capture + Wearables for Physical Assessments</h3>
+        <p><strong>Overview</strong>: This project focused on exploring how motion capture and wearable sensor technologies could be applied remotely to assess physical function in patients with chronic conditions, aiming to improve accessibility through telehealth solutions.</p>
 
-## CURRENT RESEARCH: Remote Motion Capture + Wearables for Physical Assessments
-**Overview**: This project focuses on exploring how motion capture + wearable sensor technologies can be applied remotely to assess physical function in patients with chronic conditions. The goal is to make clinical assessments more accessible through telehealth solutions.
+        <h3>Remote Eye-tracking for Behavioral Research</h3>
+        <p><strong>Overview</strong>: In response to the pandemic, we adapted our behavioral research to fully remote settings using webcam-based eye-tracking technology. We successfully captured decision-making processes, demonstrating that remote eye-tracking can produce reliable data across diverse participants.</p>
+        <p><strong>Key Contributions</strong>: Pioneered remote eye-tracking, validated data reliability, and expanded participant engagement during the pandemic.</p>
+        <p><strong>Methods</strong>: Webcam-based eye-tracking, remote behavioral analysis, online experimentation.</p>
 
----
+        <h3>EEG-based Cognitive Neuroscience Research</h3>
+        <p><strong>Overview</strong>: This project explored the neural correlates of decision-making and perception using EEG. The research uncovered insights into brain activity patterns related to cognitive processes such as attention and perception.</p>
+        <p><strong>Key Contributions</strong>: Studied how the brain responded to various stimuli, providing a deeper understanding of decision-making processes.</p>
+        <p><strong>Methods</strong>: EEG data collection, neural signal processing, cognitive task-based experiments conducted both in-person and remotely.</p>
 
-## Remote Eye-tracking for Behavioral Research
-**Overview**: In response to the pandemic, we adapted our behavioral research to fully remote settings by leveraging webcam-based eye-tracking technology. This innovation allowed us to conduct complex visual attention studies without in-person lab access. We tested the limits of remote methods and successfully captured decision-making processes, demonstrating that remote eye-tracking can produce reliable data across a wide range of participants in diverse home environments.
+        <h3>Cursor Tracking for Behavioral Analysis</h3>
+        <p><strong>Overview</strong>: This project investigated human behavior through remote cursor tracking techniques, tracking and analyzing decision-making patterns in real-time through participants' online interactions.</p>
+        <p><strong>Key Contributions</strong>: Developed web-based tools for remotely tracking user behavior, applying behavioral analysis to real-world decision-making scenarios.</p>
+        <p><strong>Methods</strong>: Remote cursor tracking software, real-time behavioral data analysis, online experimentation focused on decision-making tasks.</p>
 
-**Key Contributions**:
-- Pioneered webcam-based eye-tracking for fully remote studies.
-- Validated the technology's ability to capture decision-making data remotely.
-- Enabled broader and more inclusive participant engagement during the pandemic.
+        <h3>Visual Perception and Human-Computer Interaction</h3>
+        <p><strong>Overview</strong>: This project explored how humans interact with digital interfaces, particularly visual perception in real-time decision-making environments. The goal was to understand attention patterns and user interactions.</p>
+        <p><strong>Key Contributions</strong>: Conducted experiments on visual attention in user interfaces, contributing to improved user experience design.</p>
+        <p><strong>Methods</strong>: Eye-tracking for human-computer interaction, visual perception analysis, behavioral data collection.</p>
 
-**Methods**: Webcam-based eye-tracking, remote behavioral analysis, online data collection + experimentation.
+        <h3>Remote Experimentation During the Pandemic</h3>
+        <p><strong>Overview</strong>: This project transitioned lab-based research into remote platforms, allowing us to conduct complex behavioral and cognitive experiments entirely online during the COVID-19 pandemic.</p>
+        <p><strong>Key Contributions</strong>: Developed remote experimentation tools, enabling us to engage broader participant populations during the pandemic.</p>
+        <p><strong>Methods</strong>: Remote experimentation tools, webcam-based behavioral tracking, online data collection.</p>
 
----
+        <h3>Visual Attention and Decision-Making</h3>
+        <p><strong>Overview</strong>: Investigated how humans make decisions based on visual stimuli, using eye-tracking to monitor attention and decision-making strategies in controlled and naturalistic environments.</p>
+        <p><strong>Key Contributions</strong>: Analyzed visual scanning patterns during decision-making processes, leading to a better understanding of visual perception's role in decision-making.</p>
+        <p><strong>Methods</strong>: Eye-tracking technology, behavioral data analysis, decision-making experiments.</p>
 
-## EEG-based Cognitive Neuroscience Research
-**Overview**: This project explored the neural correlates of decision-making and perception. Using EEG, the research uncovered insights into brain activity patterns related to cognitive processes.
+        <h3>Human-Computer Interaction and User Experience</h3>
+        <p><strong>Overview</strong>: This project focused on improving user experience in digital interfaces through the study of human-computer interaction, visual perception, and attention patterns.</p>
+        <p><strong>Key Contributions</strong>: Conducted user experience experiments aimed at enhancing the effectiveness of digital interactions and interface designs.</p>
+        <p><strong>Methods</strong>: Eye-tracking, user experience research, human-computer interaction analysis.</p>
+    </div>
 
-**Key Contributions**:
-- Studied how the brain responded to various stimuli.
-- Applied neural data to gain a better understanding of decision-making.
-
-**Methods**: EEG data collection, neural signal processing, and cognitive task-based experiments conducted in both in-person and remote settings, with analysis focused on identifying brain activity patterns linked to attention and decision-making.
-
----
-
-## Cursor Tracking for Behavioral Analysis
-**Overview**: This project investigated human behavior through remote cursor tracking techniques. It tracked and analyzed dynamic decision-making patterns through participants' online interactions.
-
-**Key Contributions**:
-- Developed web-based tools for remotely tracking and analyzing user behavior.
-- Applied behavioral analysis to real-world decision-making scenarios.
-
-**Methods**: Remote cursor tracking software, real-time behavioral data analysis, and online experimentation, focusing on tracking movement patterns during decision-making tasks in digital environments.
+    <footer>
+        <p>&copy; 2024 Jennifer Bertrand</p>
+    </footer>
+</body>
+</html>

@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/minimalist/0.1.0/minimalist.min.css">
+</head>
+
 # Research Projects
 
 ## CURRENT RESEARCH: Remote Motion Capture + Wearables for Physical Assessments
